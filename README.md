@@ -17,6 +17,8 @@ This is a list of various books, courses and other resources for sports analytic
 
 ### Blogs
 
+### Data
+
 ### General
 
 * [The Signal and the Noise: Why So Many Predictions Fail - but some Don't](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087)
