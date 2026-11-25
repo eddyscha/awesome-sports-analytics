@@ -24,3 +24,8 @@ This is a list of various books, courses and other resources for sports analytic
 * [The Signal and the Noise: Why So Many Predictions Fail - but some Don't](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087)
 * [Superforecasting: The Art and Science of Prediction](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718)
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+
+
+## Public Data APIs (Apify)
+
+- [Sports Odds API](https://apify.com/publicrecords/sports-odds-api) - Live odds from 24 Kambi-powered sportsbooks (BetRivers, Unibet, Paf...) with best price per outcome (Apify Actor, API + MCP).
